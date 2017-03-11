@@ -1,5 +1,4 @@
 'use strict';
-
 /*
 
 Refactor the following functions. Use higher-order functions rather than for-loops.
